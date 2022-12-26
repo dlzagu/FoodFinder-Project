@@ -27,6 +27,37 @@
 나만의 프로필에 마음에 드는 레시피와 맛집을 저장해 한눈에 나만의 레시피를!
 
 
+<br />
+
+## 🛠 주요 기능
+
+ <table>
+    <tr>
+      <td align="center">메인</td>
+      <td align="center">게임 로비</td>
+    </tr>
+    <tr>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209514600-b424dac2-8e0e-4d49-99a5-2ad838a4f918.png"></td>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209514694-4abfabda-4dca-4cf1-871b-dc01dfaf82f0.png"></td>
+    </tr>
+    <tr>
+      <td align="center">그림 보고 답하기</td>
+      <td align="center">단어 보고 그리기</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/SytOLd2.png" /></td>
+      <td align="center"><img src="https://i.imgur.com/nlhj1R5.pngg" /></td>
+    </tr>
+    <tr>
+      <td align="center">게임 결과 확인</td>
+      <td align="center">어드민 페이지</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.imgur.com/i9v2reE.png" /></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/33686751/208235589-d43b71f0-e0d9-461b-bdea-6a39a56f2431.png" /></td>
+    </tr>
+ </table>
+
 ## 👪 팀원 소개
 
 
