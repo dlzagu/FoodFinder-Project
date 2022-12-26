@@ -13,6 +13,10 @@
 
 <br />
 
+## 🚀 프로젝트 소개
+<img width="1901" alt="image" src="https://user-images.githubusercontent.com/98149429/209513155-e4ee4687-6387-48fa-8f05-f21418cc2821.png">
+
+
 ## 👪 팀원 소개
 
 
