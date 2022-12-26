@@ -423,4 +423,4 @@
 
 ## 🔧 DB TABLE 구조
 
-![ERD](/uploads/3e3c64354cefeb06fb5caf3533a236fc/hppDGAB8d5BjJN6Gr.png)
+[![ERD](/uploads/3e3c64354cefeb06fb5caf3533a236fc/hppDGAB8d5BjJN6Gr.png)](https://kdt-gitlab.elice.io/ai_track/class05/ai_project/team03/team03/uploads/3e3c64354cefeb06fb5caf3533a236fc/hppDGAB8d5BjJN6Gr.png)
