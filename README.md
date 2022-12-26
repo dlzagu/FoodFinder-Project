@@ -34,27 +34,35 @@
  <table>
     <tr>
       <td align="center">메인</td>
-      <td align="center">게임 로비</td>
+      <td align="center">레시피 페이지</td>
     </tr>
     <tr>
       <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209514600-b424dac2-8e0e-4d49-99a5-2ad838a4f918.png"></td>
       <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209514694-4abfabda-4dca-4cf1-871b-dc01dfaf82f0.png"></td>
     </tr>
     <tr>
-      <td align="center">그림 보고 답하기</td>
-      <td align="center">단어 보고 그리기</td>
+      <td align="center">레시피 모음 페이지</td>
+      <td align="center">레시피 작성 페이지</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://i.imgur.com/SytOLd2.png" /></td>
-      <td align="center"><img src="https://i.imgur.com/nlhj1R5.pngg" /></td>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209515274-5de4f396-32a9-4a8a-b711-2949e73f4c85.png"></td>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209515418-37d1b622-e01a-4462-8bb5-1a54ff14b2e0.png"></td>
+    </tr>
+   <tr>
+      <td align="center">레시피 검색 결과 페이지</td>
+      <td align="center">레시피 디테일 페이지</td>
     </tr>
     <tr>
-      <td align="center">게임 결과 확인</td>
-      <td align="center">어드민 페이지</td>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209515873-c4a610dc-9758-474e-b10e-777489a5df9f.png"></td>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209516005-b85921fd-7c10-4d0e-a36e-a812dba0dd78.png"></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://i.imgur.com/i9v2reE.png" /></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/33686751/208235589-d43b71f0-e0d9-461b-bdea-6a39a56f2431.png" /></td>
+      <td align="center">프로필 페이지</td>
+      <td align="center">맛집 저장 페이지</td>
+    </tr>
+    <tr>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209515547-4d1c1c6d-e94b-4c53-9596-3154fed1fa2f.png"></td>
+      <td align="center"><img width="500" alt="image" src="https://user-images.githubusercontent.com/98149429/209515659-f7901a3c-8119-42b6-bb95-67c7f12e0dc9.png">></td>
     </tr>
  </table>
 
