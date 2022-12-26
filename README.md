@@ -96,6 +96,9 @@
 
 <br />
 
+## 나의 역할 및 프로젝트 상세 설명 페이지 
+![노션페이지](https://available-xylophone-c1c.notion.site/FoodFinder-Project-267c495b184a4c3ea3cd9f9e83022f30)
+
 ## 📁 프로젝트 구조
 
 ### Front-End
